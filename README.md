@@ -4,7 +4,6 @@ An interactive analytics dashboard analyzing 15,000 food delivery orders — bui
 
 **🔗 Live Demo:** https://priyankapriya65155-maker.github.io/food-delivery-analytics-dashboard/
 
-![Dashboard Preview](food_delivery_dashboard_snapshot.png)
 
 ---
 
