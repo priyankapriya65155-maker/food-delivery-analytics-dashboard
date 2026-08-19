@@ -2,7 +2,7 @@
 
 An interactive analytics dashboard analyzing 15,000 food delivery orders — built for a CEO/CFO-level view of revenue, delivery operations, and service quality, with live filtering and data-backed insights.
 
-**🔗 Live Demo:** https://priyankapriya65155-maker.github.io/food-delivery-analytics-dashboard/
+**🔗 Live Demo:** https://priyankapriya65155-maker.github.io/food-delivery-operations-and-customer-experience-analytics/
 
 
 ---
